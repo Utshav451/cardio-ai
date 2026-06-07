@@ -68,7 +68,7 @@ cardio_project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/cardio-ai.git
+git clone https://github.com/Utshav451/cardio-ai
 cd cardio-ai
 ```
 
